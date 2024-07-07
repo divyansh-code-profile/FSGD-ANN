@@ -7,3 +7,5 @@ With the rising integration of IoT devices within smart home environments, secur
 
 # The dataset provided in this repo is pre-processed dataset that can be used as it is.
 
+# The pre-processing code is also given in case needed.
+
