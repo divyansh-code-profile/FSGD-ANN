@@ -9,3 +9,5 @@ With the rising integration of IoT devices within smart home environments, secur
 
 # The pre-processing code is also given in case needed.
 
+# Publication Link - https://doi.org/10.1016/j.compeleceng.2024.109604
+
